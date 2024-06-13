@@ -1,6 +1,6 @@
 <html>
   <body>
-    Body
+    test
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
